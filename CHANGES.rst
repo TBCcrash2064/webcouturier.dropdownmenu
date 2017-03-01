@@ -5,7 +5,11 @@ Changelog
 3.0.2 (unreleased)
 ------------------
 
-- Fix AttributeError during upgrade. 
+- Added mobile/responsive navigation
+  [abosio]
+
+
+- Fix AttributeError during upgrade.
   [abosio]
 
 
